@@ -16,5 +16,9 @@ public class CalculatorTest {
   public void shouldAdd(){
     assertTrue(calculator.sum(3, 4) == 7);
   }
+  @Test
+  public void shouldSubtract(){
+    assertTrue(calculator.subtract(5,3)==2);
+  }
 
 }
