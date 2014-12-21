@@ -20,5 +20,12 @@ public class CalculatorTest {
   public void shouldSubtract(){
     assertTrue(calculator.subtract(5,3)==2);
   }
-
+  @Test
+  public void shouldMultiply(){
+    assertTrue(calculator.multiply(3,4)==12);
+  }
+  @Test
+  public void shouldDivide(){
+    assertTrue(calculator.divide(3,4)==12);
+  }
 }
