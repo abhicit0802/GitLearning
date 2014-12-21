@@ -26,6 +26,6 @@ public class CalculatorTest {
   }
   @Test
   public void shouldDivide(){
-    assertTrue(calculator.divide(3,4)==12);
+    assertTrue(calculator.divide(12,3)==4);
   }
 }
