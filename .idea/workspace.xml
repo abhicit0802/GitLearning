@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fefdc72-b996-4c56-824e-6a21c5cee1ec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/tw/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/tw/CalculatorTest.java" />
     </list>
     <ignored path="GitLearning.iws" />
@@ -62,8 +61,8 @@
       <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9092742" vertical-offset="29" max-vertical-offset="600">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.84879035" vertical-offset="14" max-vertical-offset="540">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
@@ -74,8 +73,6 @@
                 <element signature="e#553#554#0" expanded="true" />
                 <element signature="e#591#592#0" expanded="true" />
                 <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -612,12 +609,12 @@
       <created>1419168706170</created>
       <option name="number" value="Default" />
       <updated>1419168706170</updated>
-      <workItem from="1419168708928" duration="3995000" />
+      <workItem from="1419168708928" duration="4117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3995000" />
+    <option name="totallyTimeSpent" value="4117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -713,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9092742" vertical-offset="29" max-vertical-offset="600">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.84879035" vertical-offset="14" max-vertical-offset="540">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
@@ -725,8 +722,6 @@
             <element signature="e#553#554#0" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
             <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
           </folding>
         </state>
       </provider>
